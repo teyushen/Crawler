@@ -6,9 +6,11 @@
 
 #### 簡單用法
 
+直接執行 ImageCrawlController 這裡頭的 main 方法即可。
+
 ImageCrawlController 中的 crawlDomains 是用來存放要爬的網頁。
 
-如果有一些爬曲網頁的邏輯需要調整，主要是修改 MyCrawler。
+如果有一些爬取網頁的邏輯需要調整，主要是修改 MyCrawler。
 
 
 

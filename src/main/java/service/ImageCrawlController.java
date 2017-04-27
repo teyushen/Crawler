@@ -21,7 +21,7 @@ public class ImageCrawlController {
         CrawlConfig config = new CrawlConfig();
 
         config.setCrawlStorageFolder(rootFolder);
-        config.setMaxDepthOfCrawling(1);
+        config.setMaxDepthOfCrawling(3);
         config.setPolitenessDelay(20);
 
     /*
